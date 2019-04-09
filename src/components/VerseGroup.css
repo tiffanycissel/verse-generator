@@ -1,0 +1,9 @@
+.VerseGroup-label {
+    width: 100%;
+    margin-top: .5rem;
+    display: block;
+}
+
+.VerseGroup-select {
+    max-width: 100%;
+}

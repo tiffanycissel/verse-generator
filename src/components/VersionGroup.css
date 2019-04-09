@@ -1,0 +1,9 @@
+.VersionGroup-label {
+    width: 100%;
+    margin-top: .5rem;
+    display: block;
+}
+
+.VersionGroup-select {
+    max-width: 100%;
+}

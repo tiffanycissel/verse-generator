@@ -1,0 +1,7 @@
+.LinkDisplay-a::after {
+    content: url('../img/baseline-launch-24px_no-pad.svg');
+    padding-left: .25rem;
+    vertical-align: middle;
+    transform: scale(.75);
+    display: inline-block;
+}
